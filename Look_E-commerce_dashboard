@@ -1,0 +1,9 @@
+
+Il file `Look_E-commerce_dashboard.pbix` contiene una dashboard interattiva 
+sviluppata in Power BI, con l'obiettivo di supportare decisioni di business 
+tramite KPI su vendite, rotazione dell'inventario e overview clienti.
+
+### Contenuto della dashboard
+- Andamento vendite nel tempo (trend stagionali)
+- Analisi rotazione inventario (prodotti a rotazione lenta/rapida)
+- Segmentazione e overview clienti
